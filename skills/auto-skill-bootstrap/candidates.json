@@ -1,0 +1,261 @@
+{
+  "generated_at": "2026-01-31T19:21:39.627504+00:00",
+  "caps": [
+    "web-development",
+    "frontend",
+    "architecture",
+    "api-design",
+    "performance",
+    "design",
+    "security",
+    "docs"
+  ],
+  "missing_caps": [
+    "security",
+    "docs"
+  ],
+  "by_cap": {
+    "security": {
+      "queries": [
+        "api security",
+        "secrets management",
+        "hardening"
+      ],
+      "candidates": [
+        {
+          "package": "sickn33/antigravity-awesome-skills@api-security-best-practices",
+          "owner_repo": "sickn33/antigravity-awesome-skills",
+          "skill": "api-security-best-practices",
+          "url": "https://skills.sh/sickn33/antigravity-awesome-skills/api-security-best-practices",
+          "allowlisted": false
+        },
+        {
+          "package": "aj-geddes/useful-ai-prompts@api-security-hardening",
+          "owner_repo": "aj-geddes/useful-ai-prompts",
+          "skill": "api-security-hardening",
+          "url": "https://skills.sh/aj-geddes/useful-ai-prompts/api-security-hardening",
+          "allowlisted": false
+        },
+        {
+          "package": "aj-geddes/useful-ai-prompts@api-authentication",
+          "owner_repo": "aj-geddes/useful-ai-prompts",
+          "skill": "api-authentication",
+          "url": "https://skills.sh/aj-geddes/useful-ai-prompts/api-authentication",
+          "allowlisted": false
+        },
+        {
+          "package": "aj-geddes/useful-ai-prompts@zero-trust-architecture",
+          "owner_repo": "aj-geddes/useful-ai-prompts",
+          "skill": "zero-trust-architecture",
+          "url": "https://skills.sh/aj-geddes/useful-ai-prompts/zero-trust-architecture",
+          "allowlisted": false
+        },
+        {
+          "package": "anton-abyzov/specweave@frontend",
+          "owner_repo": "anton-abyzov/specweave",
+          "skill": "frontend",
+          "url": "https://skills.sh/anton-abyzov/specweave/frontend",
+          "allowlisted": false
+        },
+        {
+          "package": "wshobson/agents@secrets-management",
+          "owner_repo": "wshobson/agents",
+          "skill": "secrets-management",
+          "url": "https://skills.sh/wshobson/agents/secrets-management",
+          "allowlisted": false
+        },
+        {
+          "package": "jeffallan/claude-skills@fastapi-expert",
+          "owner_repo": "jeffallan/claude-skills",
+          "skill": "fastapi-expert",
+          "url": "https://skills.sh/jeffallan/claude-skills/fastapi-expert",
+          "allowlisted": false
+        },
+        {
+          "package": "alinaqi/claude-bootstrap@security",
+          "owner_repo": "alinaqi/claude-bootstrap",
+          "skill": "security",
+          "url": "https://skills.sh/alinaqi/claude-bootstrap/security",
+          "allowlisted": false
+        },
+        {
+          "package": "martinholovsky/claude-skills-generator@rabbitmq-expert",
+          "owner_repo": "martinholovsky/claude-skills-generator",
+          "skill": "rabbitmq-expert",
+          "url": "https://skills.sh/martinholovsky/claude-skills-generator/rabbitmq-expert",
+          "allowlisted": false
+        },
+        {
+          "package": "josiahsiegel/claude-plugin-marketplace@docker-security-guide",
+          "owner_repo": "josiahsiegel/claude-plugin-marketplace",
+          "skill": "docker-security-guide",
+          "url": "https://skills.sh/josiahsiegel/claude-plugin-marketplace/docker-security-guide",
+          "allowlisted": false
+        },
+        {
+          "package": "thebushidocollective/han@kubernetes-security",
+          "owner_repo": "thebushidocollective/han",
+          "skill": "kubernetes-security",
+          "url": "https://skills.sh/thebushidocollective/han/kubernetes-security",
+          "allowlisted": false
+        },
+        {
+          "package": "sickn33/antigravity-awesome-skills@security-scanning-security-hardening",
+          "owner_repo": "sickn33/antigravity-awesome-skills",
+          "skill": "security-scanning-security-hardening",
+          "url": "https://skills.sh/sickn33/antigravity-awesome-skills/security-scanning-security-hardening",
+          "allowlisted": false
+        },
+        {
+          "package": "omer-metin/skills-for-antigravity@security-hardening",
+          "owner_repo": "omer-metin/skills-for-antigravity",
+          "skill": "security-hardening",
+          "url": "https://skills.sh/omer-metin/skills-for-antigravity/security-hardening",
+          "allowlisted": false
+        },
+        {
+          "package": "404kidwiz/claude-supercode-skills@powershell-security-hardening",
+          "owner_repo": "404kidwiz/claude-supercode-skills",
+          "skill": "powershell-security-hardening",
+          "url": "https://skills.sh/404kidwiz/claude-supercode-skills/powershell-security-hardening",
+          "allowlisted": false
+        },
+        {
+          "package": "yonatangross/orchestkit@mcp-security-hardening",
+          "owner_repo": "yonatangross/orchestkit",
+          "skill": "mcp-security-hardening",
+          "url": "https://skills.sh/yonatangross/orchestkit/mcp-security-hardening",
+          "allowlisted": false
+        },
+        {
+          "package": "jamditis/claude-skills-journalism@api-hardening",
+          "owner_repo": "jamditis/claude-skills-journalism",
+          "skill": "api-hardening",
+          "url": "https://skills.sh/jamditis/claude-skills-journalism/api-hardening",
+          "allowlisted": false
+        }
+      ]
+    },
+    "docs": {
+      "queries": [
+        "documentation",
+        "readme",
+        "api docs"
+      ],
+      "candidates": [
+        {
+          "package": "sickn33/antigravity-awesome-skills@api-documentation-generator",
+          "owner_repo": "sickn33/antigravity-awesome-skills",
+          "skill": "api-documentation-generator",
+          "url": "https://skills.sh/sickn33/antigravity-awesome-skills/api-documentation-generator",
+          "allowlisted": false
+        },
+        {
+          "package": "sickn33/antigravity-awesome-skills@documentation-templates",
+          "owner_repo": "sickn33/antigravity-awesome-skills",
+          "skill": "documentation-templates",
+          "url": "https://skills.sh/sickn33/antigravity-awesome-skills/documentation-templates",
+          "allowlisted": false
+        },
+        {
+          "package": "upstash/context7@documentation-lookup",
+          "owner_repo": "upstash/context7",
+          "skill": "documentation-lookup",
+          "url": "https://skills.sh/upstash/context7/documentation-lookup",
+          "allowlisted": false
+        },
+        {
+          "package": "davila7/claude-code-templates@quality-documentation-manager",
+          "owner_repo": "davila7/claude-code-templates",
+          "skill": "quality-documentation-manager",
+          "url": "https://skills.sh/davila7/claude-code-templates/quality-documentation-manager",
+          "allowlisted": false
+        },
+        {
+          "package": "davila7/claude-code-templates@notion-research-documentation",
+          "owner_repo": "davila7/claude-code-templates",
+          "skill": "notion-research-documentation",
+          "url": "https://skills.sh/davila7/claude-code-templates/notion-research-documentation",
+          "allowlisted": false
+        },
+        {
+          "package": "epicenterhq/epicenter@documentation",
+          "owner_repo": "epicenterhq/epicenter",
+          "skill": "documentation",
+          "url": "https://skills.sh/epicenterhq/epicenter/documentation",
+          "allowlisted": false
+        },
+        {
+          "package": "softaworks/agent-toolkit@crafting-effective-readmes",
+          "owner_repo": "softaworks/agent-toolkit",
+          "skill": "crafting-effective-readmes",
+          "url": "https://skills.sh/softaworks/agent-toolkit/crafting-effective-readmes",
+          "allowlisted": false
+        },
+        {
+          "package": "jeremylongshore/claude-code-plugins-plus-skills@readme-generator",
+          "owner_repo": "jeremylongshore/claude-code-plugins-plus-skills",
+          "skill": "readme-generator",
+          "url": "https://skills.sh/jeremylongshore/claude-code-plugins-plus-skills/readme-generator",
+          "allowlisted": false
+        },
+        {
+          "package": "ovachiever/droid-tings@readme-updater",
+          "owner_repo": "ovachiever/droid-tings",
+          "skill": "readme-updater",
+          "url": "https://skills.sh/ovachiever/droid-tings/readme-updater",
+          "allowlisted": false
+        },
+        {
+          "package": "shpigford/skills@readme",
+          "owner_repo": "shpigford/skills",
+          "skill": "readme",
+          "url": "https://skills.sh/shpigford/skills/readme",
+          "allowlisted": false
+        },
+        {
+          "package": "epicenterhq/epicenter@readme-writing",
+          "owner_repo": "epicenterhq/epicenter",
+          "skill": "readme-writing",
+          "url": "https://skills.sh/epicenterhq/epicenter/readme-writing",
+          "allowlisted": false
+        },
+        {
+          "package": "sgcarstrends/sgcarstrends@readme-updates",
+          "owner_repo": "sgcarstrends/sgcarstrends",
+          "skill": "readme-updates",
+          "url": "https://skills.sh/sgcarstrends/sgcarstrends/readme-updates",
+          "allowlisted": false
+        },
+        {
+          "package": "sickn33/antigravity-awesome-skills@api-patterns",
+          "owner_repo": "sickn33/antigravity-awesome-skills",
+          "skill": "api-patterns",
+          "url": "https://skills.sh/sickn33/antigravity-awesome-skills/api-patterns",
+          "allowlisted": false
+        },
+        {
+          "package": "ovachiever/droid-tings@api-documenter",
+          "owner_repo": "ovachiever/droid-tings",
+          "skill": "api-documenter",
+          "url": "https://skills.sh/ovachiever/droid-tings/api-documenter",
+          "allowlisted": false
+        },
+        {
+          "package": "bobmatnyc/claude-mpm-skills@cypress",
+          "owner_repo": "bobmatnyc/claude-mpm-skills",
+          "skill": "cypress",
+          "url": "https://skills.sh/bobmatnyc/claude-mpm-skills/cypress",
+          "allowlisted": false
+        },
+        {
+          "package": "bobmatnyc/claude-mpm-skills@api-documentation",
+          "owner_repo": "bobmatnyc/claude-mpm-skills",
+          "skill": "api-documentation",
+          "url": "https://skills.sh/bobmatnyc/claude-mpm-skills/api-documentation",
+          "allowlisted": false
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "updated_at": "2026-01-31T19:21:39.627504+00:00",
+  "caps": [
+    "web-development",
+    "frontend",
+    "architecture",
+    "api-design",
+    "performance",
+    "design",
+    "security",
+    "docs"
+  ],
+  "missing_caps": [
+    "security",
+    "docs"
+  ],
+  "installed": {},
+  "non_allowlisted_only_caps": [
+    "security",
+    "docs"
+  ],
+  "non_allowlisted_policy": "block",
+  "no_candidates_caps": [],
+  "adhoc_queries": [],
+  "ignored_caps": [
+    "api-design",
+    "project-mgmt"
+  ]
+}

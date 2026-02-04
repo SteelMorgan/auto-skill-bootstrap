@@ -1,0 +1,266 @@
+{
+  "domains": [
+    {
+      "id": "web-development",
+      "label": "Web Development",
+      "example_queries": ["react", "nextjs", "typescript", "css", "tailwind"]
+    },
+    {
+      "id": "frontend",
+      "label": "Frontend",
+      "example_queries": ["frontend best practices", "component patterns", "state management"]
+    },
+    {
+      "id": "backend",
+      "label": "Backend",
+      "example_queries": ["backend patterns", "service architecture", "api integration"]
+    },
+    {
+      "id": "api-design",
+      "label": "API Design",
+      "example_queries": ["rest best practices", "openapi", "api versioning"]
+    },
+    {
+      "id": "auth",
+      "label": "Auth",
+      "example_queries": ["authentication", "authorization", "jwt", "oauth"]
+    },
+    {
+      "id": "databases",
+      "label": "Databases",
+      "example_queries": ["postgres", "schema design", "migrations", "orm"]
+    },
+    {
+      "id": "sql",
+      "label": "SQL",
+      "example_queries": ["sql optimization", "indexing", "query tuning"]
+    },
+    {
+      "id": "caching",
+      "label": "Caching",
+      "example_queries": ["redis", "caching strategies", "cache invalidation"]
+    },
+    {
+      "id": "messaging",
+      "label": "Messaging",
+      "example_queries": ["kafka", "rabbitmq", "queues", "event-driven"]
+    },
+    {
+      "id": "architecture",
+      "label": "Architecture",
+      "example_queries": ["architecture patterns", "ddd", "clean architecture"]
+    },
+    {
+      "id": "system-design",
+      "label": "System Design",
+      "example_queries": ["scalability", "distributed systems", "high availability"]
+    },
+    {
+      "id": "performance",
+      "label": "Performance",
+      "example_queries": ["performance optimization", "profiling", "latency"]
+    },
+    {
+      "id": "observability",
+      "label": "Observability",
+      "example_queries": ["logging", "metrics", "tracing", "opentelemetry"]
+    },
+    {
+      "id": "reliability",
+      "label": "Reliability/SRE",
+      "example_queries": ["sre", "incident response", "resilience", "retries"]
+    },
+    {
+      "id": "security",
+      "label": "Security",
+      "example_queries": ["api security", "secrets management", "hardening"]
+    },
+    {
+      "id": "testing",
+      "label": "Testing",
+      "example_queries": ["testing", "jest", "playwright", "e2e"]
+    },
+    {
+      "id": "testing-unit",
+      "label": "Testing (Unit)",
+      "example_queries": ["unit testing", "tdd", "pytest", "junit"]
+    },
+    {
+      "id": "testing-e2e",
+      "label": "Testing (E2E)",
+      "example_queries": ["e2e testing", "playwright", "cypress", "test automation"]
+    },
+    {
+      "id": "qa",
+      "label": "QA",
+      "example_queries": ["test strategy", "test plan", "acceptance criteria"]
+    },
+    {
+      "id": "devops",
+      "label": "DevOps",
+      "example_queries": ["deploy", "docker", "kubernetes", "ci-cd"]
+    },
+    {
+      "id": "ci-cd",
+      "label": "CI/CD",
+      "example_queries": ["github actions", "pipelines", "release automation"]
+    },
+    {
+      "id": "cloud",
+      "label": "Cloud",
+      "example_queries": ["aws", "gcp", "azure", "cloud architecture"]
+    },
+    {
+      "id": "iac",
+      "label": "IaC",
+      "example_queries": ["terraform", "pulumi", "infrastructure as code"]
+    },
+    {
+      "id": "mobile",
+      "label": "Mobile",
+      "example_queries": ["ios", "android", "react native", "mobile architecture"]
+    },
+    {
+      "id": "documentation",
+      "label": "Documentation",
+      "example_queries": ["docs", "readme", "changelog", "api-docs"]
+    },
+    {
+      "id": "code-quality",
+      "label": "Code Quality",
+      "example_queries": ["review", "lint", "refactor", "best-practices"]
+    },
+    {
+      "id": "design",
+      "label": "Design",
+      "example_queries": ["ui", "ux", "design-system", "accessibility"]
+    },
+    {
+      "id": "product",
+      "label": "Product",
+      "example_queries": ["product discovery", "roadmap", "product specs"]
+    },
+    {
+      "id": "project-mgmt",
+      "label": "Project Mgmt",
+      "example_queries": ["project management", "estimation", "planning"]
+    },
+    {
+      "id": "productivity",
+      "label": "Productivity",
+      "example_queries": ["workflow", "automation", "git"]
+    },
+    {
+      "id": "python",
+      "label": "Python",
+      "example_queries": ["python best practices", "pytest", "async python"]
+    },
+    {
+      "id": "nodejs",
+      "label": "Node.js",
+      "example_queries": ["nodejs patterns", "typescript", "nestjs"]
+    },
+    {
+      "id": "dotnet",
+      "label": ".NET",
+      "example_queries": ["dotnet best practices", "asp.net", "c#"]
+    },
+    {
+      "id": "java",
+      "label": "Java",
+      "example_queries": ["spring", "java best practices", "jvm performance"]
+    },
+    {
+      "id": "go",
+      "label": "Go",
+      "example_queries": ["go best practices", "concurrency", "http client"]
+    },
+    {
+      "id": "rust",
+      "label": "Rust",
+      "example_queries": ["rust patterns", "tokio", "performance"]
+    },
+    {
+      "id": "marketing",
+      "label": "Marketing",
+      "example_queries": ["marketing strategy", "go-to-market", "positioning"]
+    },
+    {
+      "id": "product-marketing",
+      "label": "Product Marketing",
+      "example_queries": ["product marketing", "messaging", "launch plan"]
+    },
+    {
+      "id": "branding",
+      "label": "Branding",
+      "example_queries": ["brand voice", "brand strategy", "guidelines"]
+    },
+    {
+      "id": "content-strategy",
+      "label": "Content Strategy",
+      "example_queries": ["content strategy", "editorial calendar", "content plan"]
+    },
+    {
+      "id": "copywriting",
+      "label": "Copywriting",
+      "example_queries": ["copywriting", "landing page copy", "sales copy"]
+    },
+    {
+      "id": "seo",
+      "label": "SEO",
+      "example_queries": ["seo audit", "keyword research", "technical seo"]
+    },
+    {
+      "id": "programmatic-seo",
+      "label": "Programmatic SEO",
+      "example_queries": ["programmatic seo", "content at scale"]
+    },
+    {
+      "id": "social-media",
+      "label": "Social Media",
+      "example_queries": ["social content", "linkedin posts", "twitter threads"]
+    },
+    {
+      "id": "paid-ads",
+      "label": "Paid Ads",
+      "example_queries": ["paid ads", "google ads", "meta ads", "ad creative"]
+    },
+    {
+      "id": "email-marketing",
+      "label": "Email Marketing",
+      "example_queries": ["email sequence", "newsletter", "deliverability"]
+    },
+    {
+      "id": "analytics",
+      "label": "Analytics",
+      "example_queries": ["marketing analytics", "attribution", "funnels", "ga4"]
+    },
+    {
+      "id": "cro",
+      "label": "CRO",
+      "example_queries": ["conversion rate optimization", "a/b test", "landing page optimization"]
+    },
+    {
+      "id": "sales",
+      "label": "Sales",
+      "example_queries": ["sales process", "outreach", "discovery calls"]
+    },
+    {
+      "id": "crm",
+      "label": "CRM",
+      "example_queries": ["crm", "pipeline", "lead management"]
+    },
+    {
+      "id": "partnerships",
+      "label": "Partnerships",
+      "example_queries": ["partnerships", "affiliate", "channel strategy"]
+    },
+    {
+      "id": "customer-success",
+      "label": "Customer Success",
+      "example_queries": ["onboarding", "retention", "churn reduction"]
+    }
+  ],
+  "source": "Derived from the 'Common Skill Categories' section in find-skills/SKILL.md. Keep this in sync."
+}
+

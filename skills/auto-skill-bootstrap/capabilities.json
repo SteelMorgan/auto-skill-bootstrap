@@ -1,0 +1,293 @@
+{
+  "web-development": {
+    "domain": "web-development",
+    "keywords": ["web", "frontend", "backend", "http", "api"],
+    "queries": ["web development", "web best practices", "http api"]
+  },
+  "frontend": {
+    "domain": "frontend",
+    "keywords": ["frontend", "ui", "react", "next", "components", "state"],
+    "queries": ["frontend best practices", "react best practices", "component patterns"]
+  },
+  "backend": {
+    "domain": "backend",
+    "keywords": ["backend", "service", "api", "integration", "server"],
+    "queries": ["backend patterns", "service architecture", "api integration"]
+  },
+  "api-design": {
+    "domain": "api-design",
+    "keywords": ["api", "rest", "openapi", "versioning", "contract"],
+    "queries": ["api design", "rest best practices", "openapi"]
+  },
+  "auth": {
+    "domain": "auth",
+    "keywords": ["auth", "authentication", "authorization", "jwt", "oauth"],
+    "queries": ["authentication best practices", "oauth", "jwt"]
+  },
+  "databases": {
+    "domain": "databases",
+    "keywords": ["database", "postgres", "schema", "migrations", "orm"],
+    "queries": ["database schema design", "postgres best practices", "migrations"]
+  },
+  "sql": {
+    "domain": "sql",
+    "keywords": ["sql", "index", "query", "optimization", "performance"],
+    "queries": ["sql optimization", "indexing", "query performance"]
+  },
+  "caching": {
+    "domain": "caching",
+    "keywords": ["cache", "redis", "ttl", "invalidation"],
+    "queries": ["redis", "caching strategies", "cache invalidation"]
+  },
+  "messaging": {
+    "domain": "messaging",
+    "keywords": ["kafka", "rabbitmq", "queue", "event", "stream"],
+    "queries": ["event-driven architecture", "kafka", "queues"]
+  },
+  "architecture": {
+    "domain": "architecture",
+    "keywords": ["architecture", "ddd", "clean architecture", "patterns", "microservices"],
+    "queries": ["architecture patterns", "clean architecture", "ddd"]
+  },
+  "system-design": {
+    "domain": "system-design",
+    "keywords": ["system design", "scalability", "distributed systems", "availability"],
+    "queries": ["system design", "distributed systems", "scalability"]
+  },
+  "performance": {
+    "domain": "performance",
+    "keywords": ["performance", "profiling", "latency", "throughput", "optimization"],
+    "queries": ["performance optimization", "profiling", "latency"]
+  },
+  "observability": {
+    "domain": "observability",
+    "keywords": ["observability", "logging", "metrics", "tracing", "opentelemetry"],
+    "queries": ["opentelemetry", "logging best practices", "metrics tracing"]
+  },
+  "reliability": {
+    "domain": "reliability",
+    "keywords": ["sre", "reliability", "incident", "resilience", "retry"],
+    "queries": ["sre", "incident response", "resilience patterns"]
+  },
+  "security": {
+    "domain": "security",
+    "keywords": ["security", "secrets", "hardening", "permissions", "api security"],
+    "queries": ["api security", "secrets management", "hardening"]
+  },
+  "testing": {
+    "domain": "testing",
+    "keywords": ["test", "tests", "unit", "integration", "tdd"],
+    "queries": ["testing patterns", "unit testing", "tdd"]
+  },
+  "testing-unit": {
+    "domain": "testing-unit",
+    "keywords": ["unit test", "pytest", "junit", "jest", "tdd"],
+    "queries": ["unit testing", "pytest", "jest"]
+  },
+  "testing-e2e": {
+    "domain": "testing-e2e",
+    "keywords": ["e2e", "playwright", "cypress", "browser", "automation"],
+    "queries": ["playwright", "e2e testing patterns", "cypress"]
+  },
+  "qa": {
+    "domain": "qa",
+    "keywords": ["qa", "test plan", "test strategy", "acceptance criteria"],
+    "queries": ["qa test plan", "test strategy", "acceptance criteria"]
+  },
+  "docs": {
+    "domain": "documentation",
+    "keywords": ["docs", "documentation", "readme", "changelog", "api docs"],
+    "queries": ["documentation", "readme", "api docs"]
+  },
+  "code-quality": {
+    "domain": "code-quality",
+    "keywords": ["review", "lint", "refactor", "best practices", "code quality"],
+    "queries": ["code review", "refactoring", "linting"]
+  },
+  "devops": {
+    "domain": "devops",
+    "keywords": ["deploy", "docker", "kubernetes", "ci", "cd"],
+    "queries": ["devops", "deployment", "ci cd"]
+  },
+  "ci-cd": {
+    "domain": "ci-cd",
+    "keywords": ["ci", "cd", "github actions", "pipeline", "release"],
+    "queries": ["github actions", "ci cd pipelines", "release automation"]
+  },
+  "docker": {
+    "domain": "devops",
+    "keywords": ["docker", "compose", "container", "image"],
+    "queries": ["docker best practices", "docker compose", "container security"]
+  },
+  "kubernetes": {
+    "domain": "devops",
+    "keywords": ["kubernetes", "k8s", "helm", "cluster"],
+    "queries": ["kubernetes", "helm", "k8s security"]
+  },
+  "devcontainers": {
+    "domain": "devops",
+    "keywords": ["devcontainer", "devcontainers", "container features"],
+    "queries": ["devcontainer", "devcontainers"]
+  },
+  "cloud": {
+    "domain": "cloud",
+    "keywords": ["aws", "gcp", "azure", "cloud", "infrastructure"],
+    "queries": ["cloud architecture", "aws", "gcp"]
+  },
+  "iac": {
+    "domain": "iac",
+    "keywords": ["terraform", "pulumi", "infrastructure as code", "iac"],
+    "queries": ["terraform", "infrastructure as code", "pulumi"]
+  },
+  "mobile": {
+    "domain": "mobile",
+    "keywords": ["mobile", "ios", "android", "react native"],
+    "queries": ["mobile architecture", "react native best practices", "ios android"]
+  },
+  "design": {
+    "domain": "design",
+    "keywords": ["ui", "ux", "accessibility", "design system"],
+    "queries": ["accessibility", "design system", "ui ux"]
+  },
+  "product": {
+    "domain": "product",
+    "keywords": ["product", "roadmap", "discovery", "specs", "requirements"],
+    "queries": ["product specs", "product discovery", "requirements"]
+  },
+  "project-mgmt": {
+    "domain": "project-mgmt",
+    "keywords": ["project management", "planning", "estimation", "delivery"],
+    "queries": ["project planning", "estimation", "delivery management"]
+  },
+  "productivity": {
+    "domain": "productivity",
+    "keywords": ["workflow", "automation", "git", "productivity"],
+    "queries": ["workflow automation", "git", "developer productivity"]
+  },
+  "github": {
+    "domain": "productivity",
+    "keywords": ["github", "gh", "pull request", "ruleset", "actions"],
+    "queries": ["github", "pull request review", "github actions"]
+  },
+  "powershell": {
+    "domain": "devops",
+    "keywords": ["powershell", "ps1", "windows"],
+    "queries": ["powershell", "windows scripting"]
+  },
+  "python": {
+    "domain": "python",
+    "keywords": ["python", "pytest", "asyncio", "typing"],
+    "queries": ["python best practices", "pytest", "async python patterns"]
+  },
+  "nodejs": {
+    "domain": "nodejs",
+    "keywords": ["node", "nodejs", "typescript", "express", "nestjs"],
+    "queries": ["nodejs backend patterns", "typescript best practices", "nestjs best practices"]
+  },
+  "dotnet": {
+    "domain": "dotnet",
+    "keywords": ["dotnet", ".net", "c#", "asp.net"],
+    "queries": ["dotnet best practices", "asp.net best practices", "c# patterns"]
+  },
+  "java": {
+    "domain": "java",
+    "keywords": ["java", "spring", "jvm", "maven", "gradle"],
+    "queries": ["java best practices", "spring best practices", "jvm performance"]
+  },
+  "go": {
+    "domain": "go",
+    "keywords": ["go", "golang", "concurrency", "http"],
+    "queries": ["go best practices", "golang concurrency", "go http client"]
+  },
+  "rust": {
+    "domain": "rust",
+    "keywords": ["rust", "tokio", "async", "performance"],
+    "queries": ["rust patterns", "tokio", "rust performance"]
+  },
+  "marketing": {
+    "domain": "marketing",
+    "keywords": ["marketing", "strategy", "positioning", "go-to-market"],
+    "queries": ["marketing strategy", "go-to-market", "positioning"]
+  },
+  "product-marketing": {
+    "domain": "product-marketing",
+    "keywords": ["product marketing", "messaging", "launch"],
+    "queries": ["product marketing", "launch strategy", "messaging"]
+  },
+  "branding": {
+    "domain": "branding",
+    "keywords": ["brand", "brand voice", "guidelines"],
+    "queries": ["brand guidelines", "brand voice", "branding"]
+  },
+  "content-strategy": {
+    "domain": "content-strategy",
+    "keywords": ["content", "editorial", "calendar", "strategy"],
+    "queries": ["content strategy", "editorial calendar", "content plan"]
+  },
+  "copywriting": {
+    "domain": "copywriting",
+    "keywords": ["copywriting", "landing page", "sales copy"],
+    "queries": ["copywriting", "landing page copy", "sales copy"]
+  },
+  "seo": {
+    "domain": "seo",
+    "keywords": ["seo", "keyword research", "technical seo"],
+    "queries": ["seo audit", "keyword research", "technical seo"]
+  },
+  "programmatic-seo": {
+    "domain": "programmatic-seo",
+    "keywords": ["programmatic seo", "content at scale"],
+    "queries": ["programmatic seo", "content at scale", "programmatic-seo"]
+  },
+  "social-media": {
+    "domain": "social-media",
+    "keywords": ["social", "linkedin", "twitter", "posts"],
+    "queries": ["social content", "linkedin posts", "twitter threads"]
+  },
+  "paid-ads": {
+    "domain": "paid-ads",
+    "keywords": ["ads", "google ads", "meta ads", "paid"],
+    "queries": ["paid ads", "google ads", "meta ads"]
+  },
+  "email-marketing": {
+    "domain": "email-marketing",
+    "keywords": ["email", "newsletter", "sequence", "deliverability"],
+    "queries": ["email sequence", "newsletter", "deliverability"]
+  },
+  "analytics": {
+    "domain": "analytics",
+    "keywords": ["analytics", "funnels", "attribution", "ga4"],
+    "queries": ["marketing analytics", "attribution", "funnels"]
+  },
+  "cro": {
+    "domain": "cro",
+    "keywords": ["cro", "conversion", "a/b test", "landing page"],
+    "queries": ["conversion rate optimization", "a/b test", "landing page optimization"]
+  },
+  "sales": {
+    "domain": "sales",
+    "keywords": ["sales", "outreach", "discovery", "closing"],
+    "queries": ["sales process", "cold outreach", "discovery calls"]
+  },
+  "crm": {
+    "domain": "crm",
+    "keywords": ["crm", "pipeline", "leads"],
+    "queries": ["crm", "sales pipeline", "lead management"]
+  },
+  "partnerships": {
+    "domain": "partnerships",
+    "keywords": ["partnerships", "affiliate", "channels"],
+    "queries": ["partnerships", "affiliate marketing", "channel strategy"]
+  },
+  "customer-success": {
+    "domain": "customer-success",
+    "keywords": ["customer success", "onboarding", "retention", "churn"],
+    "queries": ["customer onboarding", "retention", "churn reduction"]
+  },
+  "other": {
+    "domain": "productivity",
+    "keywords": ["other", "ad-hoc", "custom query"],
+    "queries": []
+  }
+}
+

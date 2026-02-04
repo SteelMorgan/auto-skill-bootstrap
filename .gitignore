@@ -9,6 +9,8 @@ __pycache__/
 Thumbs.db
 .vscode/
 
+clean-agent-folders.ps1
+
 # Node
 node_modules/
 npm-debug.log*
